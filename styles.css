@@ -2,8 +2,10 @@
     font-family: 'Montserrat', sans-serif;
     color: black;
 }
+
+
 .cuerpo{
-    background-image: linear-gradient(180deg, #00000017 0%,#00000017 100%), url(./imagenes/fondo.jpg);
+    background-image: linear-gradient(180deg, #00000017 0%,#00000017 100%), url(./imagenes/fondocolores.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -87,7 +89,7 @@
     height: 30px;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
-    background: #20202069;
+    background: #ffffff69;
     border: 2px solid black;
     font-size: 20px;
     color: white;
@@ -114,9 +116,7 @@
 .sugerencias{
     margin: 0 auto;
     height: 170px;
-    width: 700px;
-    color: white;
-    
+    width: 700px;    
 }
 
 .recorrer{
@@ -146,16 +146,13 @@
 }
 .Tema{
     text-decoration: none;
-    color: white;
+    color: black;
 }
-
-
-
 /* Pie de pagina */
 
 .pie{
     font-size: 22px;
-    color: white;
+    color: black;
     padding: 10px;
     text-align: right;
     padding: .5 rem;
